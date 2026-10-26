@@ -1,202 +1,201 @@
 <!--
-  RZDevelopement | GitHub Profile README
-  Gaming • Minecraft • Discord • Full-Stack Development
+  RZDevelopement | CYBER GAMING PROFILE
+  Minecraft • Discord • Web Development
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:5420a8,100:9b5de5&height=230&section=header&text=RZDevelopement&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=58&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050008,25:18002e,55:6d00b5,80:bd00ff,100:050008&text=RZDEVELOPMENT&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ENTER%20THE%20DEVELOPMENT%20ZONE&descSize=15&descAlignY=58" />
 
-# 👾 RZDevelopement
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=800&color=C77DFF&center=true&vCenter=true&width=800&height=55&lines=MINECRAFT+PLUGIN+DEVELOPMENT;DISCORD+BOT+ENGINEERING;WEB+%26+SOFTWARE+PROJECTS;IDEAS+INTO+REALITY" alt="Animated developer titles" />
 
-### 💻 Full-Stack Enthusiast · Minecraft Developer · Discord Bot Developer
+<br/>
 
-**Building digital experiences, one project at a time.**
+<img src="https://img.shields.io/badge/IDENTITY-RZDEVELOPMENT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-GAME%20%26%20SOFTWARE-111111?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-6D00B5?style=for-the-badge&logo=rocket&logoColor=white" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-RZDevelopement-181717?style=for-the-badge&logo=github)](https://github.com/RZDevelopement)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dQGPJUz7uY)
-[![Profile Views](https://komarev.com/ghpvc/?username=RZDevelopement&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)](https://github.com/RZDevelopement)
+<br/><br/>
 
-🇬🇧 English · 🇮🇷 فارسی
+**『 BUILD THE IDEA. BREAK THE LIMITS. CREATE THE FUTURE. 』**
+
+[ ⚡ EXPLORE REPOSITORIES ](https://github.com/RZDevelopement?tab=repositories)　•　[ 🎮 JOIN THE COMMUNITY ](https://discord.gg/dQGPJUz7uY)
 
 </div>
 
 ---
 
-## 🎮 About Me | درباره من
+## `01` // WHO AM I?
 
-### 🇬🇧 English
+<div align="center">
 
-Hey! Welcome to my GitHub profile.
+### 🇬🇧 BEHIND THE CODE
 
-I'm the person behind **RZDevelopement**, a development community and project hub focused on programming, Minecraft, Discord bots, and web technologies.
+</div>
 
-I enjoy exploring new technologies, building practical projects, and turning ideas into working applications.
+Welcome to the digital headquarters of **RZDevelopement**.
 
-- 🎮 Interested in Minecraft plugins and server development.
-- 🤖 Working with Discord bots and community tools.
-- 🌐 Exploring web development and full-stack technologies.
-- 🛠️ Building and improving projects under the RZDevelopement name.
-- 🚀 Always looking to learn, experiment, and create something better.
+I'm interested in building software, experimenting with technologies, and creating experiences around Minecraft, Discord, and the web.
 
-### 🇮🇷 فارسی
+My focus is on turning ideas into practical projects — from custom game features and community bots to interactive websites and development tools.
 
-سلام! به پروفایل گیت‌هاب RZDevelopement خوش اومدی! 👋
+- `🎮` Minecraft plugins & server development
+- `🤖` Discord bots & community automation
+- `🌐` Web development & Node.js applications
+- `⚙️` Software tools, launchers & experiments
+- `🚀` Continuous learning and project building
 
-من روی پروژه‌های برنامه‌نویسی، پلاگین‌های ماینکرفت، ربات‌های دیسکورد و توسعه وب کار می‌کنم و هدفم ساخت ابزارها و پروژه‌های کاربردی و جذابه.
+<div align="center">
 
-- 🎮 علاقه‌مند به توسعه پلاگین و سرور ماینکرفت.
-- 🤖 فعالیت در زمینه ساخت ربات‌های دیسکورد.
-- 🌐 یادگیری و توسعه وب‌سایت‌های مدرن.
-- 🛠️ توسعه و بهبود پروژه‌های RZDevelopement.
-- 🚀 یادگیری مداوم و تبدیل ایده‌ها به پروژه‌های واقعی.
+### 🇮🇷 نسخه فارسی
 
----
+به پایگاه دیجیتال **RZDevelopement** خوش اومدی! 💜
 
-## ⚔️ What I Build | حوزه فعالیت
+اینجا قراره ایده‌ها به پروژه تبدیل بشن؛ از پلاگین‌های ماینکرفت و ربات‌های دیسکورد گرفته تا وب‌سایت‌ها و ابزارهای نرم‌افزاری.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**هدف:** ساخت پروژه‌های کاربردی، یادگیری مداوم و ایجاد تجربه‌های بهتر برای کاربران و گیمرها.
 
-### 🎮 Minecraft Development
-
-- Custom plugin development
-- Minecraft server features
-- Gameplay mechanics and utilities
-- Server configuration and customization
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Discord Development
-
-- Discord bot development
-- Slash commands and interactions
-- Community management tools
-- Automation and moderation features
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Development
-
-- HTML, CSS and JavaScript projects
-- Node.js applications
-- Interactive user interfaces
-- Backend and frontend exploration
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 Software & Tools
-
-- Development utilities
-- Launcher and application projects
-- Debugging and troubleshooting
-- Learning new frameworks and technologies
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack | ابزارها و فناوری‌ها
+## `02` // THE DEVELOPMENT ARSENAL
 
-### Languages & Web
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css&theme=dark" alt="Java, JavaScript, Node.js, HTML and CSS" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,git,github,vscode,idea,maven,gradle&theme=dark&perline=6" alt="Development technologies and tools" />
 
-### Development Tools
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,gradle&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Maven and Gradle" />
-</p>
+<img src="https://img.shields.io/badge/MINECRAFT-PLUGIN%20DEV-4CAF50?style=flat-square&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/DISCORD-BOT%20DEV-5865F2?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/WEB-FRONTEND%20%26%20NODE.JS-9B5DE5?style=flat-square&logo=nodedotjs&logoColor=white" />
 
-> These icons represent technologies and tools relevant to my development interests and projects, not a certification or a claim of expert-level proficiency.
+</div>
+
+<details>
+<summary><b>⚙️ TECHNOLOGY NOTES / توضیحات فناوری‌ها</b></summary>
+
+<br/>
+
+The icons above represent technologies associated with my projects and interests. They are not intended as a claim of professional mastery or certification.
+
+آیکون‌های بالا فناوری‌های مرتبط با پروژه‌ها و علایق من رو نشون می‌دن؛ نه ادعای مدرک یا تسلط حرفه‌ای روی تک‌تک اون‌ها.
+
+</details>
 
 ---
 
-## 🚀 Featured Projects | پروژه‌های شاخص
+## `03` // PROJECT UNIVERSE
 
-### 🟣 RZDevelopement
+<div align="center">
 
-My development community and project hub.
+<img src="https://img.shields.io/badge/01-RZDEVELOPMENT-7B2FF7?style=for-the-badge" />
 
-- 💻 Programming and development projects
-- 🎮 Minecraft-related development
-- 🤖 Discord community and bot projects
+### 💜 RZDevelopement
 
-[![Explore GitHub](https://img.shields.io/badge/Explore-My%20Repositories-8b5cf6?style=for-the-badge&logo=github)](https://github.com/RZDevelopement?tab=repositories)
+**THE COMMUNITY • THE VISION • THE PROJECTS**
 
-### 🎯 Explore My Work
+A development community focused on programming, Minecraft, Discord, and digital projects.
 
-<p>
+[ OPEN REPOSITORIES ↗ ](https://github.com/RZDevelopement?tab=repositories)
+
+<br/>
+
+<img src="https://img.shields.io/badge/02-MINECRAFT-3C8527?style=for-the-badge&logo=minecraft&logoColor=white" />
+
+### ⛏️ Minecraft Development
+
+Custom plugin ideas, gameplay features, server utilities, and experiments for Minecraft projects.
+
+<br/>
+
+<img src="https://img.shields.io/badge/03-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+### 🤖 Discord Engineering
+
+Bots, slash commands, community tools, moderation workflows, and automation experiments.
+
+<br/>
+
+<img src="https://img.shields.io/badge/04-WEB%20%26%20SOFTWARE-9B5DE5?style=for-the-badge&logo=code&logoColor=white" />
+
+### 🌐 Web & Software
+
+Interactive websites, Node.js applications, launcher-related projects, and software experiments.
+
+</div>
+
+---
+
+## `04` // GITHUB COMMAND CENTER
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RZDevelopement&show_icons=true&hide_border=true&bg_color=09000F&title_color=D580FF&icon_color=BB66FF&text_color=E6D5FF&ring_color=BB66FF" alt="GitHub overview" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZDevelopement&layout=compact&hide_border=true&bg_color=09000F&title_color=D580FF&text_color=E6D5FF" alt="Popular repository languages" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=RZDevelopement&hide_border=true&background=09000F&ring=BB66FF&fire=FF55DD&currStreakLabel=D580FF&sideLabels=E6D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RZDevelopement&bg_color=09000F&color=D580FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity" />
+
+</div>
+
+<sub>Note: Statistics depend on public repository data and third-party services. Some cards may be unavailable or empty when no eligible data exists.</sub>
+
+---
+
+## `05` // PLAYER PROFILE
+
+<div align="center">
+
+| ATTRIBUTE | PROFILE |
+|:---|:---|
+| `IDENTITY` | RZDevelopement |
+| `MAIN INTERESTS` | Minecraft • Discord • Web |
+| `DEVELOPMENT STYLE` | Build • Test • Improve |
+| `CURRENT MISSION` | Create better projects |
+| `NEXT LEVEL` | Learn • Experiment • Grow |
+
+</div>
+
+---
+
+## `06` // JOIN THE NETWORK
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9B5DE5" width="100%" />
+
+### HAVE AN IDEA? LET'S BUILD SOMETHING.
+
+**Got a project, suggestion, or development idea? Let's connect.**
+
+<br/>
+
+<a href="https://github.com/RZDevelopement">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20JOURNEY-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://github.com/RZDevelopement?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=flat-square&logo=github" alt="View repositories" />
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE%20THE%20CODE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/RZDevelopement?tab=projects">
-<img src="https://img.shields.io/badge/GitHub-Projects-6f42c1?style=flat-square&logo=github" alt="View projects" />
+
+<a href="https://discord.gg/dQGPJUz7uY">
+<img src="https://img.shields.io/badge/DISCORD-ENTER%20THE%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-</p>
 
-*More projects and experiments will appear here as they become available.*
+<br/><br/>
 
----
+### 💜 FROM IDEA TO EXECUTION.
 
-## 📊 GitHub Dashboard
+**کد می‌زنیم، یاد می‌گیریم، می‌سازیم و پیشرفت می‌کنیم.**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RZDevelopement&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9" height="170" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZDevelopement&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9" height="170" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=RZDevelopement&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" height="170" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🎯 Current Interests | علایق فعلی
-
-- ⚙️ Building and improving Minecraft plugins.
-- 🤖 Developing useful Discord bot features.
-- 🌐 Creating modern and interactive websites.
-- 🧪 Experimenting with new development tools.
-- 📚 Improving programming skills through hands-on projects.
-
----
-
-## 🤝 Connect With Me | ارتباط با من
-
-<div align="center">
-
-**Have an idea, a project, or just want to connect?**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github)](https://github.com/RZDevelopement)
-
-[![Discord](https://img.shields.io/badge/Discord-RZDevelopement%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dQGPJUz7uY)
-
-**Discord Community:** [Join RZDevelopement](https://discord.gg/dQGPJUz7uY)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Keep Building. Keep Learning. Keep Creating.
-
-**Code is the tool. Creativity is the power.**
-
-*کدنویسی ابزار ماست؛ خلاقیت قدرت ماست.* 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b5de5,50:5420a8,100:09090f&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050008,50:6D00B5,100:BD00FF&section=footer" width="100%" />
 
 </div>
