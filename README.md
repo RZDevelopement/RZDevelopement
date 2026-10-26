@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/rz-banner.png" width="100%" alt="RZDevelopement — Cyberpunk Minecraft Developer Banner" />
+<img src="./assets/rz-banner.svg" width="100%" alt="RZDevelopement — Cyberpunk Minecraft Developer Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=19&pause=800&color=C77DFF&center=true&vCenter=true&width=850&height=55&lines=%3E+WELCOME+TO+RZDEVELOPMENT;%3E+MINECRAFT+%2F+DISCORD+%2F+WEB;%3E+BUILDING+THE+NEXT+LEVEL;%3E+IDEAS+INTO+REALITY" alt="RZ terminal animation" />
 
